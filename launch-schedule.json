@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Explorer I", "date": "2024-12-25T12:00:00Z", "destination": "Mars" },
+    { "id": 2, "name": "Lunar Rover", "date": "2024-12-30T15:30:00Z", "destination": "Moon" },
+    { "id": 3, "name": "Starship Alpha", "date": "2025-01-10T09:00:00Z", "destination": "Jupiter" }
+  ]
+  
